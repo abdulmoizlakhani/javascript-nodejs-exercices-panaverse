@@ -1,0 +1,22 @@
+{
+  "name": "javascript-nodejs-exercices-panaverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "personal-message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulmoizlakhani/javascript-nodejs-exercices-panaverse.git"
+  },
+  "author": "Abdul Moiz Lakhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulmoizlakhani/javascript-nodejs-exercices-panaverse/issues"
+  },
+  "homepage": "https://github.com/abdulmoizlakhani/javascript-nodejs-exercices-panaverse#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
