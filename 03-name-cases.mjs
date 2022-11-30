@@ -1,3 +1,10 @@
+/*
+ Name: Abdul Moiz Lakhani
+ Date: 23-11-2022
+ Description: The programs gets the user's name using prompt in the console and saves it in the personName variable.
+              Then prints the name in lowercase, uppercase and title case in the console.
+*/
+
 import promptSync from "prompt-sync";
 
 const prompt = promptSync();
